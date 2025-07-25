@@ -1,0 +1,3 @@
+{
+  "patternKeys": "^(spring\\.datasource|spring\\.redis|web\\.back\\.upLoadPath|web\\.front\\.upLoadPath|token\\.expireTime|ftp.userName|ftp.passWord|ftp.host|ftp.port|ftp.baseUrl|ftp.LocalDir|inco.system.xxmc|inco.system.maintitle|inco.person.xxdm|inco.security.login.checkcode)"
+}
